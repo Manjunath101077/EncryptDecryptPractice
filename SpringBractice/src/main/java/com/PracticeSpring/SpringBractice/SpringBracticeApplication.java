@@ -11,3 +11,4 @@ public class SpringBracticeApplication {
 	}
 
 }
+//git remote add origin https://github.com/Manjunath101077/EncryptDecryptPractice.git
